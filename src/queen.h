@@ -1,4 +1,4 @@
-/* Author: 	Kylie Gilmore
+/* Author: 	Kyle Gilmore
  * Date: 	March 18, 2022
  * Project: 	Chess AI
  * File: 	queen.h
